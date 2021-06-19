@@ -75,7 +75,7 @@
     "deepmerge": "^4.2.2",
     "devtools-protocol": "^0.0.852555",
     "is-plain-object": "^5.0.0",
-    "playwright-core": "*",
+    "playwright-core": "1.12.2",
     "typed-emitter": "^1.3.1"
   }
 }
